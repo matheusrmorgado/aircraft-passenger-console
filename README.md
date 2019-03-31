@@ -2,6 +2,10 @@
 
 ## Projeto
 
+Projeto desenvolvido em parceria com o [InovaLab@Poli](https://www.facebook.com/INOVALAB.POLI) e o [Centro Interdisciplinar de Tecnologias Interativas (CITI-USP)](http://www.lsi.usp.br/citi/).
+
+O relatório completo do trabalho está disponível em [final-report.pdf](https://github.com/matheusrmorgado/aircraft-passenger-console/blob/master/final-report.pdf).
+
 <p align="center">
   <img src=https://github.com/matheusrmorgado/aircraft-passenger-console/blob/master/images/final-prototype.jpg height="485" width="713">
 </p>
