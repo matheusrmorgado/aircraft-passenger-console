@@ -5,8 +5,9 @@
 <p align="center">
   <img src=https://github.com/matheusrmorgado/aircraft-passenger-console/blob/master/images/FinalPrototype.jpg height="477" width="614">
 </p>
+
 <p align="center">
-  <i> [Youtube Video](https://youtu.be/7tW5oUx-QU8) </i>
+  <i> Youtube Video (http://www.youtube.com/watch?v=7tW5oUx-QU8 "") </i>
 </p>
 
 
@@ -16,11 +17,11 @@
 ## Apresentação em Eventos
 
 
-#### Campus Mobile 2016
+### Campus Mobile 2016
 
 > https://www.institutonetclaroembratel.org.br/educacao/nossas-novidades/noticias/jovens-empreendedores-se-reunem-na-etapa-presencial-do-programa-campus-mobile/
 
-IEEE Paper
+### IEEE Paper
 
 > https://ieeexplore.ieee.org/document/7797372
 
