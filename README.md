@@ -6,17 +6,24 @@
   <img src=https://github.com/matheusrmorgado/aircraft-passenger-console/blob/master/images/FinalPrototype.jpg height="477" width="614">
 </p>
 <p align="center">
-  <i> [Youtube Video]https://youtu.be/7tW5oUx-QU8) </i>
+  <i> [Youtube Video]https://youtu.be/7tW5oUx-QU8 </i>
 </p>
 
 
-<video src="https://github.com/matheusrmorgado/aircraft-passenger-console/blob/master/videos/video-presentation.mp4" width="320" height="200" controls preload></video>
+<p align="center">
+  <video src="https://github.com/matheusrmorgado/aircraft-passenger-console/blob/master/videos/video-presentation.mp4" width="320" height="200" controls preload></video>
+</p>
+<p align="center">
+  <i> [Youtube Video]https://youtu.be/7tW5oUx-QU8 </i>
+</p>
+
+
 
 
 ## Apresentação em Eventos
 
 
-Campus Mobile 2016
+#### Campus Mobile 2016
 
 > https://www.institutonetclaroembratel.org.br/educacao/nossas-novidades/noticias/jovens-empreendedores-se-reunem-na-etapa-presencial-do-programa-campus-mobile/
 
