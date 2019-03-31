@@ -12,13 +12,13 @@
 
 ## Apresentação em Eventos
 
-### IEEE ISCE 2016 (Enabling Technologies)
-
-> http://isce2016.org.br/#overview_and_technical_program 
-
 ### Campus Mobile 2016 (Air Assistant)
 
 > https://www.institutonetclaroembratel.org.br/educacao/nossas-novidades/noticias/jovens-empreendedores-se-reunem-na-etapa-presencial-do-programa-campus-mobile/
+
+### IEEE ISCE 2016 (Enabling Technologies)
+
+> http://isce2016.org.br/#overview_and_technical_program 
 
 ### TOM 2016  (Projetos 2016 - Slide 29)
 
