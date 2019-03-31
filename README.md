@@ -6,7 +6,7 @@
   <img src=https://github.com/matheusrmorgado/aircraft-passenger-console/blob/master/images/FinalPrototype.jpg height="485" width="713">
 </p>
 <p align="center">
-  <i> Youtube Video - https://youtu.be/7tW5oUx-QU8) </i>
+  <i> Youtube Video - https://youtu.be/7tW5oUx-QU8</i>
 </p>
 
 
