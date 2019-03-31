@@ -6,12 +6,16 @@ Projeto desenvolvido em parceria com o [InovaLab@Poli](https://www.facebook.com/
 
 O relatório completo do trabalho está disponível em [final-report.pdf](https://github.com/matheusrmorgado/aircraft-passenger-console/blob/master/final-report.pdf).
 
+Uma apresentação resumida do projeto e dos resultados está disponível em [poster-presentation.pdf](https://github.com/matheusrmorgado/aircraft-passenger-console/blob/master/poster-presentation.pdf).
+
+
 <p align="center">
   <img src=https://github.com/matheusrmorgado/aircraft-passenger-console/blob/master/images/final-prototype.jpg height="485" width="713">
 </p>
 <p align="center">
   <i> Youtube Video - https://youtu.be/7tW5oUx-QU8</i>
 </p>
+
 
 
 ## Apresentação em Eventos
@@ -27,6 +31,7 @@ O relatório completo do trabalho está disponível em [final-report.pdf](https:
 ### TOM 2016  (Projetos 2016 - Slide 29)
 
 > http://tom-sp.sedpcd.sp.gov.br/img/TOM.pdf
+
 
 
 ## Participação em Reportagens
