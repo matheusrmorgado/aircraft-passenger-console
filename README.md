@@ -6,18 +6,11 @@
   <img src=https://github.com/matheusrmorgado/aircraft-passenger-console/blob/master/images/FinalPrototype.jpg height="477" width="614">
 </p>
 <p align="center">
-  <i> [Youtube Video]https://youtu.be/7tW5oUx-QU8 </i>
+  <i> [Youtube Video](https://youtu.be/7tW5oUx-QU8) </i>
 </p>
 
 
-<p align="center">
-  <video src="https://github.com/matheusrmorgado/aircraft-passenger-console/blob/master/videos/video-presentation.mp4" width="320" height="200" controls preload></video>
-</p>
-<p align="center">
-  <i> [Youtube Video]https://youtu.be/7tW5oUx-QU8 </i>
-</p>
-
-
+[![](http://img.youtube.com/vi/7tW5oUx-QU8/0.jpg)](http://www.youtube.com/watch?v=7tW5oUx-QU8 "")
 
 
 ## Apresentação em Eventos
